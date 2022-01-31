@@ -1,0 +1,36 @@
+#my_grid{
+    margin-top: 100px;
+}
+.row div{
+
+    border :1px solid white;
+    height: 100px;
+    width: 200px;
+}
+.bottone{
+
+    position: absolute;
+    left : 50%;
+    right : 50%;
+}
+.carattereGrande{
+
+    height: 200%;
+}
+.font{
+
+    font-size: 120px;;
+}
+.coloresfondo{
+    background-color: black;
+}
+.quadretti{
+    background-color:grey;
+}
+.scritta{
+color: white;
+}
+.tabella{
+    margin-left: 300px;
+    margin-right: 300px;
+}
